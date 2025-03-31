@@ -1,0 +1,28 @@
+/* styles.css */
+/* Save this as styles.css */
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+button {
+  background-color: #ff69b4;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #ff1493;
+}
+
+p {
+  margin-top: 20px;
+  font-size: 20px;
+  color: #ff1493;
+  font-style: italic;
+}
